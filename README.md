@@ -30,7 +30,7 @@ User testing with six participants rated understanding highest (M = 4.79/5) and 
 [before-it-was-blue.vercel.app](https://before-it-was-blue.vercel.app/)
 
 ## Credits
-**Team:** Chen Shiyu · Hoang Linh Chi · Nadia Wijaya Puspo · Zhu Boning
-**Supervisor:** Dr Cai Shaoyu
-**Industry partner:** Singapore ArCH Square
-**Technical assistance:** Erin Ng Xin Le · Choi Mijin
+- **Team:** Chen Shiyu · Hoang Linh Chi · Nadia Wijaya Puspo · Zhu Boning
+- **Supervisor:** Dr Cai Shaoyu
+- **Technical assistance:** Erin Ng Xin Le · Choi Mijin
+- **Industry partner:** Singapore ArCH Square
