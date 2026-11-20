@@ -1,4 +1,5 @@
 # Before It Was Blue
+<img width="3024" height="2268" alt="bfr it was blue" src="https://github.com/user-attachments/assets/1953cb65-cc4f-44be-af9c-ada98556df82" />
 
 An interactive finger-worn wearable that lets museum visitors feel how firing temperature shaped Jingdezhen blue-and-white porcelain.
 
