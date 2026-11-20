@@ -33,4 +33,3 @@ User testing with six participants rated understanding highest (M = 4.79/5) and 
 - **Team:** Chen Shiyu · Hoang Linh Chi · Nadia Wijaya Puspo · Zhu Boning
 - **Supervisor:** Dr Cai Shaoyu
 - **Technical assistance:** Erin Ng Xin Le · Choi Mijin
-- **Industry partner:** Singapore ArCH Square
